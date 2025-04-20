@@ -61,3 +61,7 @@ This project demonstrates a secure client-server communication system using a co
    ```bash
    javac Client.java
    java Client
+3. **Communication:**
+   ->After connection is established, both client and server can type messages
+   ->Messages will be encrypted, signed, and verified automatically
+   ->Type your message and press Enter to send
